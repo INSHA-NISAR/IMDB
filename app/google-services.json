@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "975040973040",
+    "firebase_url": "https://assignment-track.firebaseio.com",
+    "project_id": "assignment-track",
+    "storage_bucket": "assignment-track.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:975040973040:android:6ca38e60ae952ae2ee5a35",
+        "android_client_info": {
+          "package_name": "com.gdg.bhopal.assignmenttrack"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "975040973040-lfia0voq4hfraur799bdeoedifdgfr4r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gdg.bhopal.assignmenttrack",
+            "certificate_hash": "edd4e173f191bb12d3ac8b8add3bf84dea7de7d9"
+          }
+        },
+        {
+          "client_id": "975040973040-rdfa1fba8l4sg6tbsrfi1u4kus4eubip.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkfyfgCHD_oe87sRcwmlTEqmz56IZwu4c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "975040973040-rdfa1fba8l4sg6tbsrfi1u4kus4eubip.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
